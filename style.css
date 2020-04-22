@@ -11,12 +11,11 @@ body {
   width: 350px;
   background-color: #308dc0;
   border: 1px solid #e75551;
-  margin: 20px;
-  margin-bottom: 40px;
+  margin: 20px 20px 40px;
 }
 
 .block-orange {
-  background-color: orange;
+  background-color: #ffa500;
   margin: 10px;
   border: 1px solid #e75551;
 }
